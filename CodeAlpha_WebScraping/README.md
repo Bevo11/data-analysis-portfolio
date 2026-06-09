@@ -61,5 +61,3 @@ The project generates two charts:
 1. **Price Distribution** — histogram of book prices
 2. **Books per Rating** — bar chart of star ratings
 
----
-Made with ❤️ as part of CodeAlpha Data Analytics Internship
