@@ -57,5 +57,3 @@ The project generates 6 charts:
 5. Fare Distribution
 6. Age vs Fare scatter plot (colored by survival)
 
----
-Made with ❤️ as part of CodeAlpha Data Analytics Internship
