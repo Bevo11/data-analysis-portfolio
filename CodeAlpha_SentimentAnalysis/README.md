@@ -39,6 +39,12 @@ CodeAlpha_SentimentAnalysis/
 
 ## ▶️ How to Run
 
+pip install pandas matplotlib seaborn nltk textblob wordcloud
+python main.py
+
+## Note
+Dataset downloads automatically when you run main.py
+
 ### Install dependencies
 ```bash
 pip install pandas matplotlib seaborn nltk textblob wordcloud
